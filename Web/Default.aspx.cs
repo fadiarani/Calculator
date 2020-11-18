@@ -14,6 +14,7 @@ namespace Web
 
         }
         ServiceReference1.Service1Client client = new ServiceReference1.Service1Client();
+
         protected void Button1_Click(object sender, EventArgs e)
         {
             TextBox3.Text = client.add(double.Parse(TextBox1.Text), double.Parse(TextBox2.Text)).ToString();

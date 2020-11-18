@@ -12,13 +12,13 @@
     </div>
         <br />
     <div>
-        <asp:Button ID="Button1" runat="server" Text="Add" BackColor="#0066FF" Font-Bold="True" ForeColor="White" OnClick="Button1_Click" Width="59px" />
+        <asp:Button ID="Button1" runat="server" Text="Add" BackColor="#0066FF" Font-Bold="True" ForeColor="White" OnClick="Button1_Click" Width="79px" />
 
-        <asp:Button ID="Button2" runat="server" Text="Sub" BackColor="#0066FF" Font-Bold="True" ForeColor="White" OnClick="Button1_Click" Width="59px" />
+        <asp:Button ID="Button2" runat="server" Text="Sub" BackColor="#0066FF" Font-Bold="True" ForeColor="White" OnClick="Button1_Click" Width="77px" />
 
-        <asp:Button ID="Button3" runat="server" Text="Multiply" BackColor="#0066FF" Font-Bold="True" ForeColor="White" OnClick="Button1_Click" Width="59px"/>
+        <asp:Button ID="Button3" runat="server" Text="Multiply" BackColor="#0066FF" Font-Bold="True" ForeColor="White" OnClick="Button1_Click" Width="90px"/>
 
-        <asp:Button ID="Button4" runat="server" Text="Divide" BackColor="#0066FF" Font-Bold="True" ForeColor="White" OnClick="Button1_Click" Width="59px"/>
+        <asp:Button ID="Button4" runat="server" Text="Divide" BackColor="#0066FF" Font-Bold="True" ForeColor="White" OnClick="Button1_Click" Width="80px"/>
 
         <br />
         <div style="background-color:gray; color: blue; font-size:medium; font-weight:bolder">
